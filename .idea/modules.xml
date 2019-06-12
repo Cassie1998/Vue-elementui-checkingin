@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VueThink.iml" filepath="$PROJECT_DIR$/.idea/VueThink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo/.idea/demo.iml" filepath="$PROJECT_DIR$/../demo/.idea/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontEnd/.idea/frontEnd.iml" filepath="$PROJECT_DIR$/frontEnd/.idea/frontEnd.iml" />
+      <module fileurl="file://D:/myfile/mycode/vue_code/.idea/vue_code.iml" filepath="D:/myfile/mycode/vue_code/.idea/vue_code.iml" />
+    </modules>
+  </component>
+</project>

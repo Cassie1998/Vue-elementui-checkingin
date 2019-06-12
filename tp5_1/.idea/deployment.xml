@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="aliyun" showEqualInSync="true" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="aliyun">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="tp5" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hello">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="think">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="远端">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tp5" local="$PROJECT_DIR$" web="/tp5" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/runtime" />
+            <excludedPath path="/tp5/runtime" />
+            <excludedPath path="/tp5/thinkphp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/thinkphp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/config/database.php" />
+            <excludedPath path="/tp5/config/database.php" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
